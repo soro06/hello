@@ -24,6 +24,6 @@ and open the template in the editor.
 		</style
     </head>
     <body>
-        <h1>Hi</h1>
+        <h1>Bonjour</h1>
     </body>
 </html>
