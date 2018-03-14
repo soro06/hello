@@ -8,6 +8,16 @@ and open the template in the editor.
     <head>
         <meta charset="UTF-8">
         <title>DEBUTER AVEC GIT</title>
+		<style type="text/css">
+		h1{
+			position: absolute;
+			text-align: center;
+			top:40%;
+			widht: 100%;
+			font-size:100;
+			font-family:helvetica;
+		}
+		</style
     </head>
     <body>
         <h1>Hi</h1>
