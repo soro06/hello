@@ -10,8 +10,8 @@ and open the template in the editor.
         <title>DEBUTER AVEC GIT</title>
 		<style type="text/css">
 		body {
-			background-color: #0000ff;
-			color:white;
+			background-color: #ffffff;
+			color:#333;
 		}
 		h1{
 			position: absolute;
