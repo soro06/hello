@@ -11,7 +11,7 @@ and open the template in the editor.
 		<style type="text/css">
 		body {
 			background-color: #ffffff;
-			color:white;
+			color:#333;
 		}
 		h1{
 			position: absolute;
